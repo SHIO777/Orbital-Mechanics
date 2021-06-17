@@ -1,5 +1,9 @@
 # Orbital-Mechanics
 
+#### 参考にさせていただいたコード
+
+https://github.com/bonarl/Clohessy-Wiltshire
+
 ### 1. assignment
 
 (x, y, z) = (0, 0, 0) m
