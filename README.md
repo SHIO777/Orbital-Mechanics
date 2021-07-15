@@ -6,17 +6,6 @@ https://github.com/bonarl/Clohessy-Wiltshire
 
 ### Hill's Equations
 
-### Position
-<img src=
-"https://render.githubusercontent.com/render/math?math=%5Cdisplaystyle+%5Cleft%5C%7B%0A%5Cbegin%7Barray%7D%7Bcc%7D%0Ax+%5C%5C+y+%5C%5C+z%0A%5Cend%7Barray%7D%0A%5Cright%5C%7D%0A" 
-alt="\left\{
-\begin{array}{cc}
-x \\ y \\ z
-\end{array}
-\right\}
-">
-
-
 
 ### 1. assignment
 
